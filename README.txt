@@ -15,7 +15,7 @@ to commit the file =    git commit -m "sample commit instructions"
 create a new empty repo on github.com
 to set a link for repositary =  git remote add origin "repo link"
 to check all the remote repo = git remote -v
-to push into repo =  git push -u orgin master.
+to push into repo =  git push -u orgin master
 
 #cloning a file and uploading it again
 go to a representive folder and do gitbash here.
